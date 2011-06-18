@@ -1,5 +1,6 @@
 #
 # Copyright (C) 2009 The Android Open Source Project
+# Copyright (C) 2011 Iranian Supreme Council of ICT, The FarsiTel Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -41,6 +42,7 @@ PRODUCT_LOCALES := en_US \
  en_SG \
  en_ZA \
  es_ES \
+ fa_IR \
  fi_FI \
  fr_BE \
  fr_CA \
